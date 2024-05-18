@@ -29,3 +29,13 @@ def factorial(n):
 print("factrial",factorial(1))    
                 
 
+class animal():
+   def __init__(self,name,type):
+      self.name=name
+      self.type = type
+   def show(self):
+      print("Animal name is "+self.name)   
+
+
+Obj_animal= animal("Tiger","king")
+Obj_animal.show()
