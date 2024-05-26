@@ -24,9 +24,10 @@ class Employee(Person):
 # Driver code
 emp = Person("Geek1")  # An Object of Person
 print(emp.getName(), emp.isEmployee())
- 
 emp = Employee("Geek2")  # An Object of Employee
 print(emp.getName(), emp.isEmployee())
 
-
-print( "emp.manish")
+banana=1
+apple=8
+total=banana+apple
+print(total)
