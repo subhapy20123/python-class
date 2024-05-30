@@ -10,3 +10,7 @@ print(type(tata))
 ibm=98
 print(ibm)
 print(type(ibm))
+
+
+print("i m raju")
+
