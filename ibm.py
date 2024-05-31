@@ -8,6 +8,8 @@ food = apple+banana+berry
 print (food)
 print (type(food))
 
+print=("i m good boy")
+
 
 
 
