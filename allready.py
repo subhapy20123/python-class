@@ -8,5 +8,5 @@ def salary (*args,**kwargs):
         total*=value
         return total
 
-result=salary("subiendu","bisw",raja=9000,raju=9000)
+result=salary("subiendu","suvo",raja=9000,raju=9000)
 print("result",result)
